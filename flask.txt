@@ -1,7 +1,0 @@
-flask
-lxml
-signxml
-cryptography
-requests
-pytz
-gunicorn
